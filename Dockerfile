@@ -1,4 +1,4 @@
-FROM php:7.1.11-fpm
+FROM php:7.2.8-fpm
 
 MAINTAINER Maarten Scholz
 
